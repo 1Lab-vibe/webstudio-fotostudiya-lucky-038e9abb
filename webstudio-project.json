@@ -1,11 +1,7 @@
 {
   "leadId": "038e9abb-5360-4a2c-a45a-be6ece0565ab",
   "businessName": "Фотостудия Lucky",
-  "city": "Россия",
-  "niche": "фотостудия",
   "publicUrl": "https://webstudio.1true.ru/projects/fotostudiya-lucky-038e9abb/",
-  "slug": "fotostudiya-lucky-038e9abb",
-  "strategy": "coder_generated_preview",
   "fallbackReason": "manual_smoke_lucky",
-  "deployedAt": "2026-05-07T23:25:29.606Z"
+  "publishedToGitHubAt": "2026-05-07T23:25:34.058Z"
 }
